@@ -1,0 +1,373 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: STATS_NONPAR_REGR.R:179
+#: STATS_NONPAR_REGR.R:322
+msgid "Nonparametric Regression"
+msgstr ""
+"비모수 회귀"
+
+#: STATS_NONPAR_REGR.R:180
+msgid "Nonparametric Regression: Warnings"
+msgstr ""
+"비모수 회귀: 경고"
+
+#: STATS_NONPAR_REGR.R:185
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s 패키지가 필요하지만 로드할 수 없습니다."
+
+#: STATS_NONPAR_REGR.R:190
+msgid "A dataset name must be specified if residuals or predicted values are requested"
+msgstr ""
+"잔차 또는 예측값이 요청된 경우 데이터 세트 이름을 지정해야 합니다."
+
+#: STATS_NONPAR_REGR.R:230
+msgid "Normal reference requires a fixed, Gaussian kernel.  Settings have been adjusted"
+msgstr ""
+"일반 참조에는 고정 Gaussian 커널이 필요합니다. 설정이 조정되었습니다."
+
+#: STATS_NONPAR_REGR.R:235
+msgid "Residuals are not available for categorical dependent variables"
+msgstr ""
+"범주형 종속변수에는 잔차를 사용할 수 없습니다."
+
+#: STATS_NONPAR_REGR.R:288
+msgid "Significance tests are not available for a categorical dependent variable"
+msgstr ""
+"범주형 종속변수에는 유의성 검정을 사용할 수 없습니다."
+
+#: STATS_NONPAR_REGR.R:326
+msgid "Dependent Variable"
+msgstr ""
+"종속변수"
+
+#: STATS_NONPAR_REGR.R:327
+msgid "Number of Nonparametric Scale Independent Variables"
+msgstr ""
+"비모수 척도 독립변수의 수"
+
+#: STATS_NONPAR_REGR.R:328
+msgid "Number of Nonparametric Ordinal Independent Variables"
+msgstr ""
+"비모수 순서형 독립변수의 수"
+
+#: STATS_NONPAR_REGR.R:329
+msgid "Number of Nominal Independent Variables"
+msgstr ""
+"명목형 독립변수의 수"
+
+#: STATS_NONPAR_REGR.R:330
+msgid "Kernel Regression Estimator"
+msgstr ""
+"커널 회귀 추정량"
+
+#: STATS_NONPAR_REGR.R:331
+msgid "Bandwidth Selection Method"
+msgstr ""
+"대역폭 선택 방법"
+
+#: STATS_NONPAR_REGR.R:332
+msgid "Continuous Variable Bandwidth Type"
+msgstr ""
+"연속형 변수 대역폭 유형"
+
+#: STATS_NONPAR_REGR.R:333
+msgid "Bandwidth Scaling"
+msgstr ""
+"대역폭 척도"
+
+#: STATS_NONPAR_REGR.R:334
+msgid "Continuous Kernel Type"
+msgstr ""
+"연속형 커널 유형"
+
+#: STATS_NONPAR_REGR.R:335
+msgid "Continuous Kernel Order"
+msgstr ""
+"연속형 커널 순서"
+
+#: STATS_NONPAR_REGR.R:336
+msgid "Ordinal Kernel Type"
+msgstr ""
+"순서형 커널 유형"
+
+#: STATS_NONPAR_REGR.R:337
+msgid "Nominal Kernel Type"
+msgstr ""
+"명목형 커널 유형"
+
+#: STATS_NONPAR_REGR.R:338
+msgid "Number of Calculation Starts"
+msgstr ""
+"계산 시작 수"
+
+#: STATS_NONPAR_REGR.R:339
+msgid "Cross-Validation Value Tolerance"
+msgstr ""
+"교차 검증 값 허용 한도"
+
+#: STATS_NONPAR_REGR.R:340
+msgid "Cross-Validation Location Tolerance"
+msgstr ""
+"교차 검증 위치 허용 한도"
+
+#: STATS_NONPAR_REGR.R:341
+msgid "Significance Bootstrap Method"
+msgstr ""
+"유의성 붓스트랩 방법"
+
+#: STATS_NONPAR_REGR.R:342
+msgid "Missing Value Treatment"
+msgstr ""
+"결측값 처리"
+
+#: STATS_NONPAR_REGR.R:343
+msgid "Output Dataset"
+msgstr ""
+"출력 데이터 세트"
+
+#: STATS_NONPAR_REGR.R:350
+msgid "least squares cross validation"
+msgstr ""
+"최소 제곱 교차 검증"
+
+#: STATS_NONPAR_REGR.R:350
+msgid "Kullback-Leibler cross validation"
+msgstr ""
+"Kullback-Leibler 교차 검증"
+
+#: STATS_NONPAR_REGR.R:360
+msgid "iid"
+msgstr ""
+"iid"
+
+#: STATS_NONPAR_REGR.R:360
+msgid "wild with Rademacher"
+msgstr ""
+"와일드 및 라데마커"
+
+#: STATS_NONPAR_REGR.R:362
+#: STATS_NONPAR_REGR.R:396
+#: STATS_NONPAR_REGR.R:397
+#: STATS_NONPAR_REGR.R:398
+#: STATS_NONPAR_REGR.R:399
+msgid "--NA--"
+msgstr ""
+"--해당 없음--"
+
+#: STATS_NONPAR_REGR.R:366
+#: STATS_NONPAR_REGR.R:367
+#: STATS_NONPAR_REGR.R:367
+msgid "Settings"
+msgstr ""
+"설정"
+
+#: STATS_NONPAR_REGR.R:369
+msgid "Computations done by R package np"
+msgstr ""
+"R 패키지 np에 의해 수행된 계산"
+
+#: STATS_NONPAR_REGR.R:373
+msgid "If the dependent variable has multiple modes, the first is reported"
+msgstr ""
+"종속변수가 다중 모드이면 첫 번째 종속변수가 보고됩니다."
+
+#: STATS_NONPAR_REGR.R:377
+msgid "Number of Cases"
+msgstr ""
+"케이스 수"
+
+#: STATS_NONPAR_REGR.R:378
+msgid "Valid Cases"
+msgstr ""
+"유효 케이스"
+
+#: STATS_NONPAR_REGR.R:379
+msgid "Omitted Cases"
+msgstr ""
+"생략된 케이스"
+
+#: STATS_NONPAR_REGR.R:380
+msgid "Dependent Variable Mode"
+msgstr ""
+"종속변수 모드"
+
+#: STATS_NONPAR_REGR.R:380
+msgid "Dependent Variable Median"
+msgstr ""
+"종속변수 중위수"
+
+#: STATS_NONPAR_REGR.R:381
+msgid "Objective Function"
+msgstr ""
+"목적 함수"
+
+#: STATS_NONPAR_REGR.R:382
+msgid "R-Squared"
+msgstr ""
+"R-제곱"
+
+#: STATS_NONPAR_REGR.R:383
+msgid "Standard Error"
+msgstr ""
+"표준오차"
+
+#: STATS_NONPAR_REGR.R:384
+msgid "Mean Absolute Error"
+msgstr ""
+"평균 절대 오차"
+
+#: STATS_NONPAR_REGR.R:385
+msgid "Correct Classification Percentage"
+msgstr ""
+"분류 백분율 정정"
+
+#: STATS_NONPAR_REGR.R:388
+msgid "Dependent Variable Bandwidth"
+msgstr ""
+"종속변수 대역폭"
+
+#: STATS_NONPAR_REGR.R:405
+#: STATS_NONPAR_REGR.R:406
+msgid "Bandwidth Summary"
+msgstr ""
+"대역폭 요약"
+
+#: STATS_NONPAR_REGR.R:406
+msgid "Statistics"
+msgstr ""
+"통계량2"
+
+#: STATS_NONPAR_REGR.R:417
+msgid "Significance test type: %s.  Method: %s.  Bootstrap replications: %s"
+msgstr ""
+"유의성 검정 유형: %s.  방법: %s.  붓스트랩 복제: %s"
+
+#: STATS_NONPAR_REGR.R:421
+#: STATS_NONPAR_REGR.R:422
+msgid "Bandwidth"
+msgstr ""
+"대역폭"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Scale Factor or Lambda"
+msgstr ""
+"척도 요인 또는 람다"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Scale"
+msgstr ""
+"척도"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Sig."
+msgstr ""
+"TPL 유의확률"
+
+#: STATS_NONPAR_REGR.R:424
+msgid "Bandwidth Parameters"
+msgstr ""
+"대역폭 모수"
+
+#: STATS_NONPAR_REGR.R:433
+#: STATS_NONPAR_REGR.R:435
+msgid "Confusion Matrix"
+msgstr ""
+"혼돈 행렬"
+
+#: STATS_NONPAR_REGR.R:436
+msgid "Actual"
+msgstr ""
+"실제값"
+
+#: STATS_NONPAR_REGR.R:437
+msgid "Predicted"
+msgstr ""
+"예측빈도"
+
+#: STATS_NONPAR_REGR.R:439
+msgid "Predicted categories with zero count are not shown"
+msgstr ""
+"빈도가 0인 예측 범주가 표시되지 않습니다."
+
+#: STATS_NONPAR_REGR.R:458
+msgid "Nonparametric Plot"
+msgstr ""
+"비모수 도표"
+
+#: STATS_NONPAR_REGR.R:471
+msgid "Gradient plot coud not be produced"
+msgstr ""
+"기울기 도표를 생성할 수 없습니다."
+
+#: STATS_NONPAR_REGR.R:478
+msgid "Gradient plot could not be produced.  There may be too many variables"
+msgstr ""
+"기울기 도표를 생성할 수 없습니다. 변수가 너무 많은 것 같습니다."
+
+#: STATS_NONPAR_REGR.R:486
+#: STATS_NONPAR_REGR.R:614
+msgid "Conditional Density"
+msgstr ""
+"조건부 밀도"
+
+#: STATS_NONPAR_REGR.R:503
+msgid "Gradient"
+msgstr ""
+"기울기"
+
+#: STATS_NONPAR_REGR.R:508
+msgid "Response"
+msgstr ""
+"반응"
+
+#: STATS_NONPAR_REGR.R:567
+msgid "An output dataset was specified but no variables were requested or none are available"
+msgstr ""
+"출력 데이터 세트가 지정되었지만 변수가 요청되지 않았거나 변수를 사용할 수 없습니다."
+
+#: STATS_NONPAR_REGR.R:623
+msgid "Residuals"
+msgstr ""
+"잔차"
+
+#: STATS_NONPAR_REGR.R:716
+msgid "The active dataset must have a name if creating new datasets"
+msgstr ""
+"새 데이터 세트를 작성할 때 활성 데이터 세트의 이름이 있어야 합니다."
+
+#: STATS_NONPAR_REGR.R:720
+msgid "One or more specified output dataset names are already in use"
+msgstr ""
+"하나 이상의 지정된 출력 데이터 세트 이름이 이미 사용 중입니다."
+
+#: STATS_NONPAR_REGR.R:781
+msgid "End of procedure"
+msgstr ""
+"프로시저 끝"
+
+#: STATS_NONPAR_REGR.R:810
+msgid "Message Number"
+msgstr ""
+"메시지 번호"
+
+

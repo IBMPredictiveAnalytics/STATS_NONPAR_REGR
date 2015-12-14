@@ -1,0 +1,373 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: STATS_NONPAR_REGR.R:179
+#: STATS_NONPAR_REGR.R:322
+msgid "Nonparametric Regression"
+msgstr ""
+"Непараметрическая регрессия"
+
+#: STATS_NONPAR_REGR.R:180
+msgid "Nonparametric Regression: Warnings"
+msgstr ""
+"Непараметрическая регрессия: Предупреждения"
+
+#: STATS_NONPAR_REGR.R:185
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Необходим пакет R %s, но его не удалось загрузить."
+
+#: STATS_NONPAR_REGR.R:190
+msgid "A dataset name must be specified if residuals or predicted values are requested"
+msgstr ""
+"Должно быть задано имя набора данных, если затребованы остатки или предсказанные значения"
+
+#: STATS_NONPAR_REGR.R:230
+msgid "Normal reference requires a fixed, Gaussian kernel.  Settings have been adjusted"
+msgstr ""
+"Для нормальной ссылки требуется фиксированное гауссово ядро.  Параметры были скорректированы"
+
+#: STATS_NONPAR_REGR.R:235
+msgid "Residuals are not available for categorical dependent variables"
+msgstr ""
+"Недоступны остатки для категориальных зависимых переменных"
+
+#: STATS_NONPAR_REGR.R:288
+msgid "Significance tests are not available for a categorical dependent variable"
+msgstr ""
+"Недоступны критерии значимости для категориальных зависимых переменных"
+
+#: STATS_NONPAR_REGR.R:326
+msgid "Dependent Variable"
+msgstr ""
+"Зависимая переменная"
+
+#: STATS_NONPAR_REGR.R:327
+msgid "Number of Nonparametric Scale Independent Variables"
+msgstr ""
+"Число непараметрических количественных независимых переменных"
+
+#: STATS_NONPAR_REGR.R:328
+msgid "Number of Nonparametric Ordinal Independent Variables"
+msgstr ""
+"Число непараметрических порядковых независимых переменных"
+
+#: STATS_NONPAR_REGR.R:329
+msgid "Number of Nominal Independent Variables"
+msgstr ""
+"Количество номинальных независимых переменных"
+
+#: STATS_NONPAR_REGR.R:330
+msgid "Kernel Regression Estimator"
+msgstr ""
+"Оценки ядерной регрессии"
+
+#: STATS_NONPAR_REGR.R:331
+msgid "Bandwidth Selection Method"
+msgstr ""
+"Метод подбора ширины полосы"
+
+#: STATS_NONPAR_REGR.R:332
+msgid "Continuous Variable Bandwidth Type"
+msgstr ""
+"Тип ширины полосы непрерывных переменных"
+
+#: STATS_NONPAR_REGR.R:333
+msgid "Bandwidth Scaling"
+msgstr ""
+"Масштабирование ширины полосы"
+
+#: STATS_NONPAR_REGR.R:334
+msgid "Continuous Kernel Type"
+msgstr ""
+"Тип непрерывных ядер"
+
+#: STATS_NONPAR_REGR.R:335
+msgid "Continuous Kernel Order"
+msgstr ""
+"Порядок непрерывных ядер"
+
+#: STATS_NONPAR_REGR.R:336
+msgid "Ordinal Kernel Type"
+msgstr ""
+"Тип порядковых ядер"
+
+#: STATS_NONPAR_REGR.R:337
+msgid "Nominal Kernel Type"
+msgstr ""
+"Тип номинальных ядер"
+
+#: STATS_NONPAR_REGR.R:338
+msgid "Number of Calculation Starts"
+msgstr ""
+"Число запусков вычислений"
+
+#: STATS_NONPAR_REGR.R:339
+msgid "Cross-Validation Value Tolerance"
+msgstr ""
+"Допуск значения перекрестной проверки"
+
+#: STATS_NONPAR_REGR.R:340
+msgid "Cross-Validation Location Tolerance"
+msgstr ""
+"Допуск положения перекрестной проверки"
+
+#: STATS_NONPAR_REGR.R:341
+msgid "Significance Bootstrap Method"
+msgstr ""
+"Метод бутстрепа значимости"
+
+#: STATS_NONPAR_REGR.R:342
+msgid "Missing Value Treatment"
+msgstr ""
+"Способ обработки пропущенных значений"
+
+#: STATS_NONPAR_REGR.R:343
+msgid "Output Dataset"
+msgstr ""
+"Выходной набор данных"
+
+#: STATS_NONPAR_REGR.R:350
+msgid "least squares cross validation"
+msgstr ""
+"перекрестная проверка методом наименьших квадратов"
+
+#: STATS_NONPAR_REGR.R:350
+msgid "Kullback-Leibler cross validation"
+msgstr ""
+"Перекрестная проверка методом Кульбака-Лейблера"
+
+#: STATS_NONPAR_REGR.R:360
+msgid "iid"
+msgstr ""
+"независимые и одинаково распределенные"
+
+#: STATS_NONPAR_REGR.R:360
+msgid "wild with Rademacher"
+msgstr ""
+"Вильд с Радемахером"
+
+#: STATS_NONPAR_REGR.R:362
+#: STATS_NONPAR_REGR.R:396
+#: STATS_NONPAR_REGR.R:397
+#: STATS_NONPAR_REGR.R:398
+#: STATS_NONPAR_REGR.R:399
+msgid "--NA--"
+msgstr ""
+"--НП--"
+
+#: STATS_NONPAR_REGR.R:366
+#: STATS_NONPAR_REGR.R:367
+#: STATS_NONPAR_REGR.R:367
+msgid "Settings"
+msgstr ""
+"Параметры"
+
+#: STATS_NONPAR_REGR.R:369
+msgid "Computations done by R package np"
+msgstr ""
+"Вычисления выполнены пакетом R np"
+
+#: STATS_NONPAR_REGR.R:373
+msgid "If the dependent variable has multiple modes, the first is reported"
+msgstr ""
+"Если у зависимой переменной несколько режимов, сообщается первый"
+
+#: STATS_NONPAR_REGR.R:377
+msgid "Number of Cases"
+msgstr ""
+"Количество наблюдений"
+
+#: STATS_NONPAR_REGR.R:378
+msgid "Valid Cases"
+msgstr ""
+"Валидные наблюдения"
+
+#: STATS_NONPAR_REGR.R:379
+msgid "Omitted Cases"
+msgstr ""
+"Опущенные наблюдения"
+
+#: STATS_NONPAR_REGR.R:380
+msgid "Dependent Variable Mode"
+msgstr ""
+"Режим зависимой переменной"
+
+#: STATS_NONPAR_REGR.R:380
+msgid "Dependent Variable Median"
+msgstr ""
+"Медиана зависимой переменной"
+
+#: STATS_NONPAR_REGR.R:381
+msgid "Objective Function"
+msgstr ""
+"Целевая функция"
+
+#: STATS_NONPAR_REGR.R:382
+msgid "R-Squared"
+msgstr ""
+"R-квадрат"
+
+#: STATS_NONPAR_REGR.R:383
+msgid "Standard Error"
+msgstr ""
+"Стандартная ошибка"
+
+#: STATS_NONPAR_REGR.R:384
+msgid "Mean Absolute Error"
+msgstr ""
+"Средняя абсолютная ошибка"
+
+#: STATS_NONPAR_REGR.R:385
+msgid "Correct Classification Percentage"
+msgstr ""
+"Правильный процент классификации"
+
+#: STATS_NONPAR_REGR.R:388
+msgid "Dependent Variable Bandwidth"
+msgstr ""
+"Ширина полосы зависимой переменной"
+
+#: STATS_NONPAR_REGR.R:405
+#: STATS_NONPAR_REGR.R:406
+msgid "Bandwidth Summary"
+msgstr ""
+"Сводная информация о пропускной способности"
+
+#: STATS_NONPAR_REGR.R:406
+msgid "Statistics"
+msgstr ""
+"Статистики"
+
+#: STATS_NONPAR_REGR.R:417
+msgid "Significance test type: %s.  Method: %s.  Bootstrap replications: %s"
+msgstr ""
+"Тип критерия значимости: %s.  Метод: %s.  Репликации бутстрепа: %s"
+
+#: STATS_NONPAR_REGR.R:421
+#: STATS_NONPAR_REGR.R:422
+msgid "Bandwidth"
+msgstr ""
+"Полоса пропускания"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Scale Factor or Lambda"
+msgstr ""
+"Коэффициент масштабирования или лямбда"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Scale"
+msgstr ""
+"Шкалы"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Sig."
+msgstr ""
+"Значимость"
+
+#: STATS_NONPAR_REGR.R:424
+msgid "Bandwidth Parameters"
+msgstr ""
+"Параметры ширины полосы"
+
+#: STATS_NONPAR_REGR.R:433
+#: STATS_NONPAR_REGR.R:435
+msgid "Confusion Matrix"
+msgstr ""
+"Матрица ошибок"
+
+#: STATS_NONPAR_REGR.R:436
+msgid "Actual"
+msgstr ""
+"Фактически"
+
+#: STATS_NONPAR_REGR.R:437
+msgid "Predicted"
+msgstr ""
+"Предсказанные"
+
+#: STATS_NONPAR_REGR.R:439
+msgid "Predicted categories with zero count are not shown"
+msgstr ""
+"Предсказанные категории с нулевым количеством не выводятся"
+
+#: STATS_NONPAR_REGR.R:458
+msgid "Nonparametric Plot"
+msgstr ""
+"Непараметрический график"
+
+#: STATS_NONPAR_REGR.R:471
+msgid "Gradient plot coud not be produced"
+msgstr ""
+"Не удалось построить градиентный график"
+
+#: STATS_NONPAR_REGR.R:478
+msgid "Gradient plot could not be produced.  There may be too many variables"
+msgstr ""
+"Не удалось построить градиентный график.  Возможно, слишком много переменных"
+
+#: STATS_NONPAR_REGR.R:486
+#: STATS_NONPAR_REGR.R:614
+msgid "Conditional Density"
+msgstr ""
+"Условная плотность"
+
+#: STATS_NONPAR_REGR.R:503
+msgid "Gradient"
+msgstr ""
+"Градиент"
+
+#: STATS_NONPAR_REGR.R:508
+msgid "Response"
+msgstr ""
+"Отклик"
+
+#: STATS_NONPAR_REGR.R:567
+msgid "An output dataset was specified but no variables were requested or none are available"
+msgstr ""
+"Был задан выходной набор данных, но переменные либо не были затребованы, либо недоступны"
+
+#: STATS_NONPAR_REGR.R:623
+msgid "Residuals"
+msgstr ""
+"Остатки"
+
+#: STATS_NONPAR_REGR.R:716
+msgid "The active dataset must have a name if creating new datasets"
+msgstr ""
+"У активного набора данных должно быть имя в случае создания новых наборов данных"
+
+#: STATS_NONPAR_REGR.R:720
+msgid "One or more specified output dataset names are already in use"
+msgstr ""
+"Одно или несколько имен наборов данных уже используются"
+
+#: STATS_NONPAR_REGR.R:781
+msgid "End of procedure"
+msgstr ""
+"Конец процедуры"
+
+#: STATS_NONPAR_REGR.R:810
+msgid "Message Number"
+msgstr ""
+"Номер сообщения"
+
+

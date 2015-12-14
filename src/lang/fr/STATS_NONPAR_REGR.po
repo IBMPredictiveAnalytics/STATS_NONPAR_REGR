@@ -1,0 +1,373 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: STATS_NONPAR_REGR.R:179
+#: STATS_NONPAR_REGR.R:322
+msgid "Nonparametric Regression"
+msgstr ""
+"Régression non paramétrique"
+
+#: STATS_NONPAR_REGR.R:180
+msgid "Nonparametric Regression: Warnings"
+msgstr ""
+"Régression non paramétrique : Avertissements"
+
+#: STATS_NONPAR_REGR.R:185
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Le pack R %s est requis mais n'a pas pu être chargé."
+
+#: STATS_NONPAR_REGR.R:190
+msgid "A dataset name must be specified if residuals or predicted values are requested"
+msgstr ""
+"Un nom de jeu de données est requis si des résidus ou des prévisions sont attendus."
+
+#: STATS_NONPAR_REGR.R:230
+msgid "Normal reference requires a fixed, Gaussian kernel.  Settings have been adjusted"
+msgstr ""
+"Les références normales requièrent un noyau gaussien fixe. Les paramètres ont été ajustés."
+
+#: STATS_NONPAR_REGR.R:235
+msgid "Residuals are not available for categorical dependent variables"
+msgstr ""
+"Les résidus ne sont pas disponibles pour les variables dépendantes catégorielles."
+
+#: STATS_NONPAR_REGR.R:288
+msgid "Significance tests are not available for a categorical dependent variable"
+msgstr ""
+"Les tests de signification ne sont pas disponibles pour les variables dépendantes catégorielles."
+
+#: STATS_NONPAR_REGR.R:326
+msgid "Dependent Variable"
+msgstr ""
+"Variable dépendante"
+
+#: STATS_NONPAR_REGR.R:327
+msgid "Number of Nonparametric Scale Independent Variables"
+msgstr ""
+"Nombre de variables d'échelle indépendantes non paramétriques"
+
+#: STATS_NONPAR_REGR.R:328
+msgid "Number of Nonparametric Ordinal Independent Variables"
+msgstr ""
+"Nombre de variables indépendantes ordinales non paramétriques"
+
+#: STATS_NONPAR_REGR.R:329
+msgid "Number of Nominal Independent Variables"
+msgstr ""
+"Nombre de variables indépendantes nominales"
+
+#: STATS_NONPAR_REGR.R:330
+msgid "Kernel Regression Estimator"
+msgstr ""
+"Estimateur de régression à noyau"
+
+#: STATS_NONPAR_REGR.R:331
+msgid "Bandwidth Selection Method"
+msgstr ""
+"Méthode de sélection de la largeur de bande"
+
+#: STATS_NONPAR_REGR.R:332
+msgid "Continuous Variable Bandwidth Type"
+msgstr ""
+"Type de largeur de bande de variable continue"
+
+#: STATS_NONPAR_REGR.R:333
+msgid "Bandwidth Scaling"
+msgstr ""
+"Mise à l'échelle de la largeur de bande"
+
+#: STATS_NONPAR_REGR.R:334
+msgid "Continuous Kernel Type"
+msgstr ""
+"Type de noyau continu"
+
+#: STATS_NONPAR_REGR.R:335
+msgid "Continuous Kernel Order"
+msgstr ""
+"Ordre de noyau continu"
+
+#: STATS_NONPAR_REGR.R:336
+msgid "Ordinal Kernel Type"
+msgstr ""
+"Type de noyau ordinal"
+
+#: STATS_NONPAR_REGR.R:337
+msgid "Nominal Kernel Type"
+msgstr ""
+"Type de noyau nominal"
+
+#: STATS_NONPAR_REGR.R:338
+msgid "Number of Calculation Starts"
+msgstr ""
+"Nombre de débuts de calcul"
+
+#: STATS_NONPAR_REGR.R:339
+msgid "Cross-Validation Value Tolerance"
+msgstr ""
+"Tolérance de valeur de validation croisée"
+
+#: STATS_NONPAR_REGR.R:340
+msgid "Cross-Validation Location Tolerance"
+msgstr ""
+"Tolérance d'emplacement de validation croisée"
+
+#: STATS_NONPAR_REGR.R:341
+msgid "Significance Bootstrap Method"
+msgstr ""
+"Méthode bootstrap de signification"
+
+#: STATS_NONPAR_REGR.R:342
+msgid "Missing Value Treatment"
+msgstr ""
+"Traitement des valeurs manquantes"
+
+#: STATS_NONPAR_REGR.R:343
+msgid "Output Dataset"
+msgstr ""
+"Jeu de données de sortie"
+
+#: STATS_NONPAR_REGR.R:350
+msgid "least squares cross validation"
+msgstr ""
+"Validation croisée des moindres carrés"
+
+#: STATS_NONPAR_REGR.R:350
+msgid "Kullback-Leibler cross validation"
+msgstr ""
+"Validation croisée de Kullback-Leibler"
+
+#: STATS_NONPAR_REGR.R:360
+msgid "iid"
+msgstr ""
+"iid"
+
+#: STATS_NONPAR_REGR.R:360
+msgid "wild with Rademacher"
+msgstr ""
+"Wild et Rademacher"
+
+#: STATS_NONPAR_REGR.R:362
+#: STATS_NONPAR_REGR.R:396
+#: STATS_NONPAR_REGR.R:397
+#: STATS_NONPAR_REGR.R:398
+#: STATS_NONPAR_REGR.R:399
+msgid "--NA--"
+msgstr ""
+"--NA--"
+
+#: STATS_NONPAR_REGR.R:366
+#: STATS_NONPAR_REGR.R:367
+#: STATS_NONPAR_REGR.R:367
+msgid "Settings"
+msgstr ""
+"Paramètres"
+
+#: STATS_NONPAR_REGR.R:369
+msgid "Computations done by R package np"
+msgstr ""
+"Calculs réalisés à l'aide du pack R np"
+
+#: STATS_NONPAR_REGR.R:373
+msgid "If the dependent variable has multiple modes, the first is reported"
+msgstr ""
+"Si la variable dépendante possède plusieurs noeuds, le premier est signalé."
+
+#: STATS_NONPAR_REGR.R:377
+msgid "Number of Cases"
+msgstr ""
+"Nombre d'observations"
+
+#: STATS_NONPAR_REGR.R:378
+msgid "Valid Cases"
+msgstr ""
+"Observations valides"
+
+#: STATS_NONPAR_REGR.R:379
+msgid "Omitted Cases"
+msgstr ""
+"Observations ignorées"
+
+#: STATS_NONPAR_REGR.R:380
+msgid "Dependent Variable Mode"
+msgstr ""
+"Mode de la variable dépendante"
+
+#: STATS_NONPAR_REGR.R:380
+msgid "Dependent Variable Median"
+msgstr ""
+"Médiane de la variable dépendante"
+
+#: STATS_NONPAR_REGR.R:381
+msgid "Objective Function"
+msgstr ""
+"Fonction d'objectif"
+
+#: STATS_NONPAR_REGR.R:382
+msgid "R-Squared"
+msgstr ""
+"R-deux"
+
+#: STATS_NONPAR_REGR.R:383
+msgid "Standard Error"
+msgstr ""
+"Erreur standard"
+
+#: STATS_NONPAR_REGR.R:384
+msgid "Mean Absolute Error"
+msgstr ""
+"Erreur absolue moyenne"
+
+#: STATS_NONPAR_REGR.R:385
+msgid "Correct Classification Percentage"
+msgstr ""
+"Pourcentage de classification correcte"
+
+#: STATS_NONPAR_REGR.R:388
+msgid "Dependent Variable Bandwidth"
+msgstr ""
+"Largeur de bande de la variable dépendante"
+
+#: STATS_NONPAR_REGR.R:405
+#: STATS_NONPAR_REGR.R:406
+msgid "Bandwidth Summary"
+msgstr ""
+"Récapitulatif de la largeur de bande"
+
+#: STATS_NONPAR_REGR.R:406
+msgid "Statistics"
+msgstr ""
+"Statistiques"
+
+#: STATS_NONPAR_REGR.R:417
+msgid "Significance test type: %s.  Method: %s.  Bootstrap replications: %s"
+msgstr ""
+"Type de test de signification : %s. Méthode : %s. Réplications du bootstrap : %s"
+
+#: STATS_NONPAR_REGR.R:421
+#: STATS_NONPAR_REGR.R:422
+msgid "Bandwidth"
+msgstr ""
+"Largeur de bande"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Scale Factor or Lambda"
+msgstr ""
+"Facteur d'échelle ou Lambda"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Scale"
+msgstr ""
+"Echelle"
+
+#: STATS_NONPAR_REGR.R:421
+msgid "Sig."
+msgstr ""
+"Sig."
+
+#: STATS_NONPAR_REGR.R:424
+msgid "Bandwidth Parameters"
+msgstr ""
+"Paramètres de largeur de bande"
+
+#: STATS_NONPAR_REGR.R:433
+#: STATS_NONPAR_REGR.R:435
+msgid "Confusion Matrix"
+msgstr ""
+"Matrice de confusion"
+
+#: STATS_NONPAR_REGR.R:436
+msgid "Actual"
+msgstr ""
+"Réel"
+
+#: STATS_NONPAR_REGR.R:437
+msgid "Predicted"
+msgstr ""
+"Prévu"
+
+#: STATS_NONPAR_REGR.R:439
+msgid "Predicted categories with zero count are not shown"
+msgstr ""
+"Les prévisions de catégories comportant une valeur nulle ne sont pas affichées."
+
+#: STATS_NONPAR_REGR.R:458
+msgid "Nonparametric Plot"
+msgstr ""
+"Tracé non paramétrique"
+
+#: STATS_NONPAR_REGR.R:471
+msgid "Gradient plot coud not be produced"
+msgstr ""
+"Impossible de générer le tracé du gradient."
+
+#: STATS_NONPAR_REGR.R:478
+msgid "Gradient plot could not be produced.  There may be too many variables"
+msgstr ""
+"Impossible de générer le tracé du gradient. Le nombre de variables est peut-être trop important."
+
+#: STATS_NONPAR_REGR.R:486
+#: STATS_NONPAR_REGR.R:614
+msgid "Conditional Density"
+msgstr ""
+"Densité conditionnelle"
+
+#: STATS_NONPAR_REGR.R:503
+msgid "Gradient"
+msgstr ""
+"Gradient"
+
+#: STATS_NONPAR_REGR.R:508
+msgid "Response"
+msgstr ""
+"Réponse"
+
+#: STATS_NONPAR_REGR.R:567
+msgid "An output dataset was specified but no variables were requested or none are available"
+msgstr ""
+"Un jeu de données a été spécifié, mais aucune variable n'a été demandée ou aucune n'est disponible."
+
+#: STATS_NONPAR_REGR.R:623
+msgid "Residuals"
+msgstr ""
+"Résidus"
+
+#: STATS_NONPAR_REGR.R:716
+msgid "The active dataset must have a name if creating new datasets"
+msgstr ""
+"Le jeu de données actif doit comporter un nom pour pouvoir créer de nouveaux jeux de données."
+
+#: STATS_NONPAR_REGR.R:720
+msgid "One or more specified output dataset names are already in use"
+msgstr ""
+"Un ou plusieurs noms de jeu de données de sortie sont déjà utilisés."
+
+#: STATS_NONPAR_REGR.R:781
+msgid "End of procedure"
+msgstr ""
+"Fin de la procédure"
+
+#: STATS_NONPAR_REGR.R:810
+msgid "Message Number"
+msgstr ""
+"Numéro de message"
+
+

@@ -1,0 +1,12 @@
+Name: STATS_NONPAR_REGR
+Dialog-Specs: STATS_NONPAR_REGR.spd
+Command-Specs: STATS_NONPAR_REGR.xml
+Code-Files: STATS_NONPAR_REGR.R
+Summary: Nonparametric regression
+Description: Nonparametric regression for continuous or categorical de
+ pendent variables
+Author: JKP, IBM SPSS
+Version: 0.9.1
+Product-Version: 19
+Plugins: R
+R-Packages: np
